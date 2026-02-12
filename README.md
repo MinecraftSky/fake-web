@@ -1,6 +1,6 @@
 # API 代理服务器
 
-这是一个使用 [Deno](https://console.deno.com/) 构建的 API 代理服务器，支持代理以下 AI API：
+这是一个使用 [Deno Deploy](https://console.deno.com/) 构建的 API 代理服务器，支持代理以下 AI API：
 
 - **ChatGPT** (OpenAI)
 - **Claude** (Anthropic)
